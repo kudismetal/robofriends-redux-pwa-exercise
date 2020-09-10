@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robofriends-redux-pwa-exercise/static/css/main.62c1e697.chunk.css",
-    "main.js": "/robofriends-redux-pwa-exercise/static/js/main.582c4106.chunk.js",
-    "main.js.map": "/robofriends-redux-pwa-exercise/static/js/main.582c4106.chunk.js.map",
+    "main.css": "/robofriends-redux-pwa-exercise/static/css/main.8ebcbf6a.chunk.css",
+    "main.js": "/robofriends-redux-pwa-exercise/static/js/main.cc40fa6e.chunk.js",
+    "main.js.map": "/robofriends-redux-pwa-exercise/static/js/main.cc40fa6e.chunk.js.map",
     "runtime-main.js": "/robofriends-redux-pwa-exercise/static/js/runtime-main.4d4fc6fa.js",
     "runtime-main.js.map": "/robofriends-redux-pwa-exercise/static/js/runtime-main.4d4fc6fa.js.map",
     "static/css/2.7a3f122f.chunk.css": "/robofriends-redux-pwa-exercise/static/css/2.7a3f122f.chunk.css",
     "static/js/2.b2897e6f.chunk.js": "/robofriends-redux-pwa-exercise/static/js/2.b2897e6f.chunk.js",
     "static/js/2.b2897e6f.chunk.js.map": "/robofriends-redux-pwa-exercise/static/js/2.b2897e6f.chunk.js.map",
     "index.html": "/robofriends-redux-pwa-exercise/index.html",
-    "precache-manifest.3173ba06618a24745267db25cbe9313d.js": "/robofriends-redux-pwa-exercise/precache-manifest.3173ba06618a24745267db25cbe9313d.js",
+    "precache-manifest.3aeadc362bbba5d215a3a1b8529daf7c.js": "/robofriends-redux-pwa-exercise/precache-manifest.3aeadc362bbba5d215a3a1b8529daf7c.js",
     "service-worker.js": "/robofriends-redux-pwa-exercise/service-worker.js",
     "static/css/2.7a3f122f.chunk.css.map": "/robofriends-redux-pwa-exercise/static/css/2.7a3f122f.chunk.css.map",
-    "static/css/main.62c1e697.chunk.css.map": "/robofriends-redux-pwa-exercise/static/css/main.62c1e697.chunk.css.map",
+    "static/css/main.8ebcbf6a.chunk.css.map": "/robofriends-redux-pwa-exercise/static/css/main.8ebcbf6a.chunk.css.map",
     "static/js/2.b2897e6f.chunk.js.LICENSE.txt": "/robofriends-redux-pwa-exercise/static/js/2.b2897e6f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/robofriends-redux-pwa-exercise/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4d4fc6fa.js",
     "static/css/2.7a3f122f.chunk.css",
     "static/js/2.b2897e6f.chunk.js",
-    "static/css/main.62c1e697.chunk.css",
-    "static/js/main.582c4106.chunk.js"
+    "static/css/main.8ebcbf6a.chunk.css",
+    "static/js/main.cc40fa6e.chunk.js"
   ]
 }
